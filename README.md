@@ -4,5 +4,4 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 # m2remote
-Business Central For M2Remote : project mangement, client management &amp; dashboard other all business activiities 
 
